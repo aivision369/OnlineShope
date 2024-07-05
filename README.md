@@ -52,10 +52,8 @@ This is a simple one-page shopping application built with Flutter. The app allow
 Contributions are welcome! Please open an issue or submit a pull request for any features, bug fixes, or enhancements.
 
 <h2>License</h2>
-This project is licensed under the [MIT License](https://github.com/aivision369/OnlineShope/blob/master/LICENSE) - see the LICENSE file for details.
----
-Please contact me at limbadiya.sk@gmail.com if you have any feedback for the website. ⭐ Star it, if you like it!
 
-<h2>Acknowledgements</h2>
-Flutter
-Dart
+This project is licensed under the [MIT LICENSE](https://github.com/aivision369/OnlineShope/blob/master/LICENSE) - see the LICENSE file for details.
+
+---
+Please contact me at [ limbadiya.sk@gmail.com ] if you have any feedback for the website. ⭐ Star it, if you like it!
