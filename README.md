@@ -6,7 +6,7 @@ This is a simple one-page shopping application built with Flutter. The app allow
 
 - **One-Page Shopping Experience:** All the shopping functionalities are integrated into a single page for simplicity and ease of use.
 - **Theme Switching:** Users can toggle between light and dark themes to suit their preferences.
-- 
+  
 - **Product Categories:**
     - Laptops
     - Smartwatches
@@ -14,9 +14,10 @@ This is a simple one-page shopping application built with Flutter. The app allow
     - Headphones
 
 ## Screenshots
-
-![Light Theme](path/to/light-theme-screenshot.png)
-![Dark Theme](path/to/dark-theme-screenshot.png)
+<p float="left">
+    <img src="https://github.com/aivision369/OnlineShope/blob/master/screenshort/light_theme.png" width="250">
+    <img src="https://github.com/aivision369/OnlineShope/blob/master/screenshort/dark_theme.png" width="250">
+</p>
 
 ## Getting Started
 
@@ -27,26 +28,31 @@ This is a simple one-page shopping application built with Flutter. The app allow
 
 ### Installation
 
-1. Clone the repository:
+1. Clone the repository :
 
 ```bash
     https://github.com/aivision369/OnlineShope.git
     cd your-repo-name
-
+```
+2. Install dependencies :
+```   
     flutter pub get
-   
+```
+3. Run the app :
+```      
     flutter run
 ```   
-<h2>Usage></h2>
-- Launch the app on your device or emulator.
-- Browse through the available products.
-- Use the theme switcher to toggle between light and dark themes.
+<h2>Usage</h2>
+
+    - Launch the app on your device or emulator.
+    - Browse through the available products.
+    - Use the theme switcher to toggle between light and dark themes.
 
 <h2>Contributing</h2>
 Contributions are welcome! Please open an issue or submit a pull request for any features, bug fixes, or enhancements.
 
 <h2>License</h2>
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the [MIT License](https://github.com/aivision369/OnlineShope/blob/master/LICENSE) - see the LICENSE file for details.
 ---
 Please contact me at limbadiya.sk@gmail.com if you have any feedback for the website. ⭐ Star it, if you like it!
 
